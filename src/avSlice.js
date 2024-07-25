@@ -34,6 +34,24 @@ export const avSlice = createSlice({
         cost: 80,
         quantity: 0,
     },
+    {
+        img: "https://cdn.pixabay.com/photo/2017/04/04/17/22/netgear-2202273_1280.jpg",
+        name: "Wi-fi",
+        cost: 80,
+        quantity: 0,
+    },
+    {
+        img: "https://cdn.pixabay.com/photo/2018/02/20/14/51/menu-3167859_960_720.jpg",
+        name: "Custom Menu",
+        cost: 80,
+        quantity: 0,
+    },
+    {
+        img: "https://cdn.pixabay.com/photo/2016/10/03/18/52/stage-1712494_960_720.jpg",
+        name: "Stage Setup",
+        cost: 80,
+        quantity: 0,
+    },
 
   ],
 
